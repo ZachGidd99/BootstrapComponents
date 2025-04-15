@@ -1,5 +1,7 @@
 body {
-    background-color: orange;
+    background-color: purple;
+    color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #accordion {
     color: blue;

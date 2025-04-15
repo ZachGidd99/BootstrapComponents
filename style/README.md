@@ -1,4 +1,4 @@
 # My Awkward Journey
 ## Through Bootstrap And HTML 
-### By My Amazing Teacher!
+### By Me Amazing Teacher!
 #### Kirsten Markley
